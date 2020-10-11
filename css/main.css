@@ -1,0 +1,207 @@
+.headsection {
+    background: ;
+    max-height: 66px;
+}
+
+.logo {float:left;}
+.logo img{}
+.title {
+    float: left;
+    color: #59473D;
+}
+.title span {
+    font-weight: bold;
+}
+.title h2 {
+    margin: 6px;
+        margin-left: 6px;
+    margin-left: 12px;
+    margin-left: 6px;
+    font-size: 27px;
+	
+}
+
+.dropdown-menu > li > a:focus, 
+.dropdown-menu > li > a:hover {
+    color: #fff;
+    text-decoration: none;
+    background-color: #ffaa10;
+}
+
+.dropdown-menu {
+	padding: 0px 0px;
+}
+
+.navbar {
+	border-radius: 0;
+}
+
+.dropdown-menu >li>a {
+	border-bottom : 1px solid #cccccc;
+	padding : 10px 20px;
+}
+
+.dropdown-menu >li:last-child  a{
+	border-bottom :0;
+}
+
+
+
+
+
+.bannersection {
+    background: url(../img/banner.jpg)no-repeat;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto auto;
+    background-size: cover;
+    background-position: center;
+    padding: 132px 0;
+    
+}
+.banner {
+    max-width: 543px;
+   margin-top: -20px;
+}
+.banner h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 42px;
+    font-weight: bold;
+}
+.banner p {
+    font-size: 24px;
+}
+.banner button {
+    padding: 11px;
+    font-size: 18px;
+    margin-top: 19px;
+}
+
+.servicesection{
+	padding: 75px;
+}
+.service {
+    padding: 35px;
+}
+.service h2 {
+    text-align: center;
+    font-weight: bold;
+    padding: 17px;
+}
+.service p {
+    padding-top: 19px;
+}
+.serviceimg i {
+    font-size: 50px;
+}
+.serviceimg {
+    background: #C8C8C9 none repeat scroll 0 0;
+    border: 5px solid #ffffff;
+    box-shadow: 0px -2px 2px 0px #999;
+    padding: 70px 0;
+}
+
+.testimonial {
+    padding: 60px 0;
+}
+.clientheading {
+    margin-bottom: 60px;
+}
+.clientheading h2 {
+    background-color: #81B441;
+    color: #fff;
+    margin: 0 auto;
+    max-width: 312px;
+    font-weight: bold;
+    padding: 3px 3px;
+}
+.clientimg {
+    padding-right: inherit;
+}
+.clientimg img {
+    border: 8px solid #fff;
+    box-shadow: 1px 2px 5px -1px #999;
+    width: 100%;
+    padding-left: 0px;
+}
+.clientspeech {
+    padding-top: 31px;
+}
+.clientspeech i {
+    font-size: 50px;
+    color: #EBEBEB;
+}
+.clientspeech p {
+    color: #B1B1B1;
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+}
+
+.address{
+	padding: 75px 0px;
+}
+.comment {
+    padding-bottom: 55px;
+}
+.comment h2 {
+    background: #81B441;
+    color: #fff;
+    max-width: 229px;
+    margin: 0 auto;
+    padding: 5px;
+    font-weight: bold;
+}
+.house{}
+.house i {
+    background: #F0F0F0 none repeat scroll 0 0;
+    border-radius: 60px;
+    font-size: 30px;
+    margin-right: 20px;
+    padding: 12px 15px;
+}
+.phoneicon {
+    padding-top: 6px;
+}
+.mailicon {
+    padding: -5px;
+}
+.house span{
+	
+}
+.roadname {
+    float: right;
+    margin-right: 66px;
+}
+.social {
+    margin-top: 70px;
+    padding: 10px 4px;
+    font-size: xx-large;
+}
+.social i {
+    padding: 20px;
+    margin-right: 10px;
+    background: #F0F0F0;
+    border-radius: 31px;
+    font-size: 30px;
+}
+.mymap{}
+.mymap img {
+    padding-left: 120px;
+    margin-top: 85px;
+}
+.footersection{
+	background:#444;
+	color:#000;
+}
+.footersection p {
+    max-width: -1px;
+    padding: 0 auto;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+
+
+

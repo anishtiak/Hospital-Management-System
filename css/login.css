@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:url(../img/hospital.jpg)no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+}
+.panel{
+	border:0px;
+	background: rgba(0,0,0,0.5);
+	color:#000;
+	text-align:center;
+	padding-top: 70px;
+	position:relative;
+	transition: 1s;
+}
+h4{
+	margin; 0;
+	padding: 0;
+	color:#F9DF05;
+}
+.span{
+	width: 40px;
+	height: 40px;
+	line-height:40px;
+	background: #fff;
+	display: inline-block;
+	text-align:center;
+	border-radius:4px;
+	margin-left;10px;
+	box-shadow: -10px 10px 10px rgba(0,0,0,0.5);
+}
+.fa-facebook{
+	color:#3B5998;
+}
+.fa-twitter{
+	color:#1DA1F3;
+}.fa-google-plus{
+	color:red;
+}
+.lock{
+	position:absolute;
+	top:-50px;
+	width:100px;
+	height:100px;
+	line-height:100px;
+	text-align:center;
+	left: 37%;
+	background: linear-gradient(DarkSlateGray,Cyan);
+	background: -webkit-linear-gradient(DarkSlateGray,Cyan);
+	background: -moz-linear-gradient(DarkSlateGray,Cyan);
+	border: 3px outset #F4E10A;
+	-moz-border-radius:100%;
+	border-radius:100%;
+	box-shadow: -20px 20px 20px rgba)(255,255,255,0.5);
+}
+.panel:hover{
+	background:rgba(0,0,0,0.7);
+}
+.btn-success{
+	border:0px;
+	border-radius:0px;
+}
+
